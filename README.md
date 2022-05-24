@@ -24,7 +24,7 @@ Como Full-Stack, sé cómo desempeñarme tanto en el Front-End como en el Back-E
  <h4> ❤ ¿Con qué tecnologías trabajo?  ❤ </h4>
   <p align="center">
 
-<img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
+
 
 <img src="https://user-images.githubusercontent.com/59575502/127427979-7eddf4e0-1d7e-4735-8564-6a0f641130d6.png" alt="visualstudio" width="25" height="25" />
 
