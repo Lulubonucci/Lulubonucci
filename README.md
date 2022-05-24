@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Lulubonucci/Lulubonucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h3 align="center">
   
   ![header]([https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnuQ1B2qsHowqgcAJ4bQPkBmtl83wr7enYQ&usqp=CAU))
