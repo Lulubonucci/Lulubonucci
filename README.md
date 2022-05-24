@@ -2,7 +2,7 @@
   
   ![header](http://www.cienciamx.com/images/aic/tecnologia/tics/banner-bad-smells-programacion.jpg)
   
- <h4> ❤  Welcome I'm Luciana Bonucci and I´m a Full-Stack Web Developer Jr. looking for my first job! ❤  </h4>
+ <h4> ❤  Bienvenidos soy Luciana Bonucci y soy Full-Stack Web Developer Jr. en busca de mi primer experiencia laboral! ❤  </h4>
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
@@ -15,9 +15,13 @@
   
  <a href="https://www.linkedin.com/in/sara-gismondi-fullstack-dev-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPspoh9NFTo%2BFwsmJ8vmQyw%3D%3D" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a> 
 
-<h4> For a long time, I studied Logic so I´m a logician but now I´m so happy to have the possibility to apply it in conjunction with all the technologies that I learned in Henry Bootcamp, where I formed myself with their intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning.</h4>
+<h4> Estoy muy feliz de tener la posibilidad de aplicar mis conocimientos en conjunto con todas las tecnologías que aprendí en Henry Bootcamp, donde me formé en un intensivo de Full -Desarrollador Web Stack, que cuenta con más de 800 horas de práctica y aprendizaje.
 
- <h4> ❤ Which technologies do I work with?  ❤ </h4>
+Como Full-Stack, sé cómo desempeñarme tanto en el Front-End como en el Back-End del desarrollo.
+
+
+
+ <h4> ❤ ¿Con qué tecnologías trabajo?  ❤ </h4>
   <p align="center">
 
 <img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
@@ -42,21 +46,21 @@
 
 </p>
 
-<h4> ◽Languages: Javascript, SQL</h4>
-<h4>◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML </h4>
-<h4>◽Back-End : Node.js | Express | </h4>
-<h4>◾DataBase: SEQUELIZE | PostgreSQL | SQLite </h4>
-<h4>◾Metodologias: SCRUM </h4>
-<h4>◾GIT | GITHUB </h4>
+◽Languages: Javascript, SQL
+◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML 
+◽Back-End : Node.js | Express | 
+◾DataBase: SEQUELIZE | PostgreSQL | SQLite
+◾Metodologias: SCRUM 
+◾GIT | GITHUB 
 
 
-<h4> ❤ Why me ? ❤ </h4>
-You should know that I have excellent oratory and I find myself very comfortable working with pairs. I think communication is the Primary-key to making team effort become the best, also to challenging our capacities and evolving to be better 
+##Por qué yo ?
+Debes saber que tengo una excelente oratoria y me encuentro muy cómoda trabajando en equipo. Creo que la comunicación es la clave principal para que el trabajo en equipo sea el mejor, y para desafiar nuestras capacidades y evolucionar para ser mejores.</h4>
 
   <span> </span>
   
- <h4>  📞 Contact Me ! 📞 </h4>
- <h4>💠WhatsApp: (+54 9) 11 3534284707 <h4>
- <h4>💠e-Mail: saritagismondi@gmail.com <h4>
- <h4> 🌸 Check my Linkedin   🌸  </h4>
- <h4> 🌸 https://www.linkedin.com/in/sara-gismondi-fullstack-dev-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPspoh9NFTo%2BFwsmJ8vmQyw%3D%3D🌸  </h4>
+ <h4>  📞 Contacteme ! 📞 </h4>
+ <h4>💠WhatsApp: (+34) 631375071 <h4>
+ <h4>💠e-Mail: bonucci64@gmail.com <h4>
+ <h4> 🌸 Mira mi Linkedin   🌸  </h4>
+ <h4> 🌸 https://www.linkedin.com/in/lbonucci/ 🌸  </h4>
