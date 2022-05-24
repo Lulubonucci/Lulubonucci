@@ -13,7 +13,7 @@
 
   </h3>
   
- <a href="(https://www.linkedin.com/in/lbonucci/)" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a> 
+ <a href="[(https://www.linkedin.com/in/lbonucci/)]" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a> 
 
 <h4> Estoy muy feliz de tener la posibilidad de aplicar mis conocimientos en conjunto con todas las tecnologías que aprendí en Henry Bootcamp, donde me formé en un intensivo de Full -Desarrollador Web Stack, que cuenta con más de 800 horas de práctica y aprendizaje.
 
