@@ -1,6 +1,6 @@
 <h3 align="center">
   
-  ![header]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVizBP0R4sZ-klQqUAacLH3aETVe5FFxMvA&usqp=CAU))
+  ![header](http://www.cienciamx.com/images/aic/tecnologia/tics/banner-bad-smells-programacion.jpg)
   
  <h4> ❤  Welcome I'm Luciana Bonucci and I´m a Full-Stack Web Developer Jr. looking for my first job! ❤  </h4>
   
