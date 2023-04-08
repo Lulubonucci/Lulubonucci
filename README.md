@@ -2,7 +2,7 @@
   
   ![header](http://www.cienciamx.com/images/aic/tecnologia/tics/banner-bad-smells-programacion.jpg)
   
- <h2> ❤  Bienvenidos soy Luciana Bonucci y soy Full-Stack Web Developer Jr. ! ❤  </h2>
+ <h2> ❤  Bienvenidos soy Luciana Bonucci y soy Backend developer ! ❤  </h2>
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
