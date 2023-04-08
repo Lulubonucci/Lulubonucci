@@ -15,9 +15,6 @@
   
  <a href="https://www.linkedin.com/in/lbonucci/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a> 
 
-Como Full-Stack, sé cómo desempeñarme tanto en el Front-End como en el Back-End del desarrollo.
-
-
 
  <h4> ❤ ¿Con qué tecnologías trabajo?  ❤ </h4>
   <p align="center">
@@ -43,11 +40,11 @@ Como Full-Stack, sé cómo desempeñarme tanto en el Front-End como en el Back-E
 
 
 </p>
-◾Front-End : React | Redux | Hooks| Bootstrap | CSS | HTML 
-◽Back-End : Node.js | Express | SEQUELIZE
-◾DataBase: PostgreSQL | MySQL | MongoDB
-◾Metodologias: SCRUM 
-◾GIT | GITHUB 
+◾Front-End : React | Redux | Hooks| Bootstrap | CSS | HTML <br>
+◽Back-End : Node.js | Express | SEQUELIZE <br>
+◾DataBase: PostgreSQL | MySQL | MongoDB <br>
+◾Metodologias: SCRUM <br>
+◾GIT | GITHUB <br>
 
 
   <span> </span>
