@@ -53,4 +53,4 @@
  <h4>💠WhatsApp: (+34) 631375071 <h4>
  <h4>💠e-Mail: bonucci64@gmail.com <h4>
  <h4> 🌸 Mira mi Linkedin   🌸  </h4>
- <h4> 🌸 https://www.linkedin.com/in/lbonucci/ 🌸  </h4>
+ <h4> 🌸 https://www.linkedin.com/in/lbonu/ 🌸  </h4>
