@@ -15,8 +15,6 @@
   
  <a href="https://www.linkedin.com/in/lbonucci/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a> 
 
-<h4> Estoy muy feliz de tener la posibilidad de aplicar mis conocimientos en conjunto con todas las tecnologías que aprendí en Henry Bootcamp, donde me formé en un intensivo de Full -Desarrollador Web Stack, que cuenta con más de 800 horas de práctica y aprendizaje.
-
 Como Full-Stack, sé cómo desempeñarme tanto en el Front-End como en el Back-End del desarrollo.
 
 
@@ -45,17 +43,12 @@ Como Full-Stack, sé cómo desempeñarme tanto en el Front-End como en el Back-E
 
 
 </p>
-
-◽Languages: Javascript, SQL
-◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML 
-◽Back-End : Node.js | Express | 
-◾DataBase: SEQUELIZE | PostgreSQL | SQLite
+◾Front-End : React | Redux | Hooks| Bootstrap | CSS | HTML 
+◽Back-End : Node.js | Express | SEQUELIZE
+◾DataBase: PostgreSQL | MySQL | MongoDB
 ◾Metodologias: SCRUM 
 ◾GIT | GITHUB 
 
-
-##Por qué yo ?
-Debes saber que tengo una excelente oratoria y me encuentro muy cómoda trabajando en equipo. Creo que la comunicación es la clave principal para que el trabajo en equipo sea el mejor, y para desafiar nuestras capacidades y evolucionar para ser mejores.</h4>
 
   <span> </span>
   
