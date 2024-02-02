@@ -2,7 +2,7 @@
   
   ![header](http://www.cienciamx.com/images/aic/tecnologia/tics/banner-bad-smells-programacion.jpg)
   
- <h2> ❤  Bienvenidos soy Luciana Bonucci y soy Backend developer ! ❤  </h2>
+ <h2> ❤  Bienvenidos soy Luciana Bonucci y soy FullStack developer ! ❤  </h2>
   
   
  <a href="https://www.linkedin.com/in/lbonucci/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a> 
